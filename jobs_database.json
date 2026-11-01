@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-01 13:13 UTC",
-  "total_jobs": 44,
+  "last_scraped": "2026-11-01 18:53 UTC",
+  "total_jobs": 45,
   "jobs": [
+    {
+      "id": "02f2194f3cb6",
+      "title": "QA Testers wanted in the United States at Tester Work",
+      "company": "Tester Work",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Contract",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/tester-work/jobs/qa-testers-wanted-in-the-united-states-878360",
+      "date_updated": "2026-11-01 18:53 UTC",
+      "raw_date": "Sun, 01 Nov 2026 10:50:10 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "7e205bbdaeb2",
       "title": "Claims Quality Assurance Supervisor at WelbeHealth",
