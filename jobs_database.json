@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-02 15:39 UTC",
-  "total_jobs": 45,
+  "last_scraped": "2026-11-02 23:28 UTC",
+  "total_jobs": 46,
   "jobs": [
+    {
+      "id": "c0a29381c64e",
+      "title": "QA Testers wanted in Jordan! at Tester Work",
+      "company": "Tester Work",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Contract",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/tester-work/jobs/qa-testers-wanted-in-jordan-878461",
+      "date_updated": "2026-11-02 23:28 UTC",
+      "raw_date": "Mon, 02 Nov 2026 17:09:34 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "02f2194f3cb6",
       "title": "QA Testers wanted in the United States at Tester Work",
