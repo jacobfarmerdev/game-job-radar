@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-02 23:28 UTC",
-  "total_jobs": 46,
+  "last_scraped": "2026-11-03 06:40 UTC",
+  "total_jobs": 47,
   "jobs": [
+    {
+      "id": "3cddf0e78089",
+      "title": "Albedo Informatics is hiring a Graphic Designer to work from Toronto, ON",
+      "company": "Work With Indies",
+      "location": "Remote / Check Listing",
+      "category": "Level & Game Design",
+      "experience_level": "Mid / Standard",
+      "job_type": "Contract",
+      "engine": "Unity",
+      "url": "https://www.workwithindies.com/careers/albedo-informatics-graphic-designer",
+      "date_updated": "2026-11-03 06:40 UTC",
+      "raw_date": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "source": "Work With Indies"
+    },
     {
       "id": "c0a29381c64e",
       "title": "QA Testers wanted in Jordan! at Tester Work",
