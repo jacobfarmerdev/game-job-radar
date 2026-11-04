@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-03 21:43 UTC",
-  "total_jobs": 47,
+  "last_scraped": "2026-11-04 02:15 UTC",
+  "total_jobs": 49,
   "jobs": [
+    {
+      "id": "f2184bcd1899",
+      "title": "Video Game Tester - Mexico City (Hybrid Role) at Keywords Studios - Montr\u00e9al",
+      "company": "Keywords Studios - Montr\u00e9al",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Proprietary / Any",
+      "url": "https://remotefirstjobs.com/companies/keywords-studios/jobs/video-game-tester-mexico-city-hybrid-role-878804",
+      "date_updated": "2026-11-04 02:15 UTC",
+      "raw_date": "Tue, 03 Nov 2026 19:35:55 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "3cddf0e78089",
       "title": "Albedo Informatics is hiring a Graphic Designer to work from Toronto, ON",
@@ -15,6 +29,20 @@
       "date_updated": "2026-11-03 06:40 UTC",
       "raw_date": "Tue, 03 Nov 2026 00:00:00 GMT",
       "source": "Work With Indies"
+    },
+    {
+      "id": "30d723e732b4",
+      "title": "QA Engineer II - VALORANT, Organized Play",
+      "company": "Riot Games",
+      "location": "Los Angeles, USA",
+      "category": "QA & Playtesting",
+      "experience_level": "Entry / Associate",
+      "job_type": "Full-Time",
+      "engine": "Unreal Engine",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8348493?gh_jid=8348493",
+      "date_updated": "2026-11-03",
+      "raw_date": "2026-11-03",
+      "source": "Riot Games (Direct ATS)"
     },
     {
       "id": "c0a29381c64e",
