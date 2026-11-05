@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-05 00:51 UTC",
-  "total_jobs": 53,
+  "last_scraped": "2026-11-05 09:24 UTC",
+  "total_jobs": 54,
   "jobs": [
+    {
+      "id": "6b2e5d21a1a3",
+      "title": "Junior Product Designer at Two Six Technologies",
+      "company": "Two Six Technologies",
+      "location": "Remote / Check Listing",
+      "category": "Level & Game Design",
+      "experience_level": "Entry / Associate",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/two-six-technologies/jobs/junior-product-designer-879353",
+      "date_updated": "2026-11-05 09:24 UTC",
+      "raw_date": "Wed, 04 Nov 2026 21:50:42 +0000",
+      "source": "RemoteFirst Entry-Level"
+    },
     {
       "id": "1983bb7e90a7",
       "title": "Fawkes is hiring a Game Designer to work from Anywhere",
