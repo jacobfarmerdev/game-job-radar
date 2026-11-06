@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-06 06:31 UTC",
-  "total_jobs": 54,
+  "last_scraped": "2026-11-06 15:53 UTC",
+  "total_jobs": 55,
   "jobs": [
+    {
+      "id": "966621119d96",
+      "title": "Technical Instructional Designer (AI Programmes) at Multiverse",
+      "company": "Multiverse",
+      "location": "Remote / Check Listing",
+      "category": "Level & Game Design",
+      "experience_level": "Entry / Associate",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/multiverse/jobs/technical-instructional-designer-ai-programmes-880001",
+      "date_updated": "2026-11-06 15:53 UTC",
+      "raw_date": "Fri, 06 Nov 2026 04:54:52 +0000",
+      "source": "RemoteFirst Entry-Level"
+    },
     {
       "id": "6b2e5d21a1a3",
       "title": "Junior Product Designer at Two Six Technologies",
