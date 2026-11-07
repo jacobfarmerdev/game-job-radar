@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-06 21:28 UTC",
-  "total_jobs": 55,
+  "last_scraped": "2026-11-07 01:52 UTC",
+  "total_jobs": 56,
   "jobs": [
+    {
+      "id": "ace441c84493",
+      "title": "Hugecalf Studios is hiring a Systems Designer to work from Anywhere",
+      "company": "Work With Indies",
+      "location": "Remote / Check Listing",
+      "category": "Tech & Systems Design",
+      "experience_level": "Mid / Standard",
+      "job_type": "Contract",
+      "engine": "Proprietary / Any",
+      "url": "https://www.workwithindies.com/careers/hugecalf-studios-systems-designer",
+      "date_updated": "2026-11-07 01:52 UTC",
+      "raw_date": "Sat, 07 Nov 2026 00:00:00 GMT",
+      "source": "Work With Indies"
+    },
     {
       "id": "966621119d96",
       "title": "Technical Instructional Designer (AI Programmes) at Multiverse",
