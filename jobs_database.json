@@ -1,7 +1,49 @@
 {
-  "last_scraped": "2026-11-07 01:52 UTC",
-  "total_jobs": 56,
+  "last_scraped": "2026-11-07 08:41 UTC",
+  "total_jobs": 59,
   "jobs": [
+    {
+      "id": "4e07cda4b2fd",
+      "title": "Product Designer (1099 Contract) | Active Secret Clearance Required at Red Cell Partners",
+      "company": "Red Cell Partners",
+      "location": "Remote / Check Listing",
+      "category": "Level & Game Design",
+      "experience_level": "Mid / Standard",
+      "job_type": "Contract",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/red-cell-partners/jobs/product-designer-1099-contract-active-secret-clearance-required-880362",
+      "date_updated": "2026-11-07 08:41 UTC",
+      "raw_date": "Sat, 07 Nov 2026 00:46:53 +0000",
+      "source": "RemoteFirst QA"
+    },
+    {
+      "id": "1623faaeb2c5",
+      "title": "Product Designer (1099 Contract) | Active Secret Clearance Required at DEF CON",
+      "company": "DEF CON",
+      "location": "Remote / Check Listing",
+      "category": "Level & Game Design",
+      "experience_level": "Mid / Standard",
+      "job_type": "Contract",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/def-con/jobs/product-designer-1099-contract-active-secret-clearance-required-880302",
+      "date_updated": "2026-11-07 08:41 UTC",
+      "raw_date": "Fri, 06 Nov 2026 22:01:41 +0000",
+      "source": "RemoteFirst QA"
+    },
+    {
+      "id": "4af8753b0d3e",
+      "title": "Quality Assurance Analyst/Engineer (Remote @Colombia or @Mexico) at OfferUp",
+      "company": "OfferUp",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Proprietary / Any",
+      "url": "https://remotefirstjobs.com/companies/offerup/jobs/quality-assurance-analystengineer-remote-colombia-or-mexico-880277",
+      "date_updated": "2026-11-07 08:41 UTC",
+      "raw_date": "Fri, 06 Nov 2026 20:54:32 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "ace441c84493",
       "title": "Hugecalf Studios is hiring a Systems Designer to work from Anywhere",
