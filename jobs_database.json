@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-09 09:40 UTC",
-  "total_jobs": 61,
+  "last_scraped": "2026-11-09 20:40 UTC",
+  "total_jobs": 62,
   "jobs": [
+    {
+      "id": "d55d71e93296",
+      "title": "42 Bits is hiring a Mission Designer to work from J\u00fcchen, DE",
+      "company": "Work With Indies",
+      "location": "Remote / Check Listing",
+      "category": "Level & Game Design",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Proprietary / Any",
+      "url": "https://www.workwithindies.com/careers/42-bits-mission-designer",
+      "date_updated": "2026-11-09 20:40 UTC",
+      "raw_date": "Mon, 09 Nov 2026 00:00:00 GMT",
+      "source": "Work With Indies"
+    },
     {
       "id": "857dc40816e8",
       "title": "QA & Verifications Specialist at Codekeeper",
