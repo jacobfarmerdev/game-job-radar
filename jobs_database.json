@@ -1,7 +1,35 @@
 {
-  "last_scraped": "2026-11-09 01:42 UTC",
-  "total_jobs": 59,
+  "last_scraped": "2026-11-09 09:40 UTC",
+  "total_jobs": 61,
   "jobs": [
+    {
+      "id": "857dc40816e8",
+      "title": "QA & Verifications Specialist at Codekeeper",
+      "company": "Codekeeper",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/codekeeper/jobs/qa-verifications-specialist-880892",
+      "date_updated": "2026-11-09 09:40 UTC",
+      "raw_date": "Sun, 08 Nov 2026 20:02:22 +0000",
+      "source": "RemoteFirst QA"
+    },
+    {
+      "id": "11e157f30773",
+      "title": "QA & Verifications Engineer at Codekeeper",
+      "company": "Codekeeper",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/codekeeper/jobs/qa-verifications-engineer-880887",
+      "date_updated": "2026-11-09 09:40 UTC",
+      "raw_date": "Sun, 08 Nov 2026 19:56:54 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "4e07cda4b2fd",
       "title": "Product Designer (1099 Contract) | Active Secret Clearance Required at Red Cell Partners",
