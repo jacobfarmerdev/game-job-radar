@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-10 12:32 UTC",
-  "total_jobs": 62,
+  "last_scraped": "2026-11-10 20:47 UTC",
+  "total_jobs": 63,
   "jobs": [
+    {
+      "id": "b789fc247b68",
+      "title": "QA Engineer - Discovery at IP Fabric",
+      "company": "IP Fabric",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Proprietary / Any",
+      "url": "https://remotefirstjobs.com/companies/ip-fabric/jobs/qa-engineer-discovery-881170",
+      "date_updated": "2026-11-10 20:47 UTC",
+      "raw_date": "Tue, 10 Nov 2026 11:44:41 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "d55d71e93296",
       "title": "42 Bits is hiring a Mission Designer to work from J\u00fcchen, DE",
