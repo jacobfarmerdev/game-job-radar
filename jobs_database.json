@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-12 09:43 UTC",
-  "total_jobs": 63,
+  "last_scraped": "2026-11-12 18:13 UTC",
+  "total_jobs": 64,
   "jobs": [
+    {
+      "id": "c267eeb30b9d",
+      "title": "Digital Production Designer Freelance at Column Five",
+      "company": "Column Five",
+      "location": "Remote / Check Listing",
+      "category": "Level & Game Design",
+      "experience_level": "Mid / Standard",
+      "job_type": "Part-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/column-five/jobs/digital-production-designer-freelance-881980",
+      "date_updated": "2026-11-12 18:13 UTC",
+      "raw_date": "Thu, 12 Nov 2026 04:43:33 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "b789fc247b68",
       "title": "QA Engineer - Discovery at IP Fabric",
