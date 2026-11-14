@@ -1,7 +1,35 @@
 {
-  "last_scraped": "2026-11-14 02:20 UTC",
-  "total_jobs": 64,
+  "last_scraped": "2026-11-14 11:24 UTC",
+  "total_jobs": 66,
   "jobs": [
+    {
+      "id": "b5a8e167d048",
+      "title": "Technical Fashion Designer at Fresh Prints",
+      "company": "Fresh Prints",
+      "location": "Remote / Check Listing",
+      "category": "Level & Game Design",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/fresh-prints/jobs/technical-fashion-designer-882756",
+      "date_updated": "2026-11-14 11:24 UTC",
+      "raw_date": "Sat, 14 Nov 2026 02:07:03 +0000",
+      "source": "RemoteFirst QA"
+    },
+    {
+      "id": "5a7054445df1",
+      "title": "Product Development Associate (Fashion Designer) at Fresh Prints",
+      "company": "Fresh Prints",
+      "location": "Remote / Check Listing",
+      "category": "Level & Game Design",
+      "experience_level": "Entry / Associate",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/fresh-prints/jobs/product-development-associate-fashion-designer-882752",
+      "date_updated": "2026-11-14 11:24 UTC",
+      "raw_date": "Sat, 14 Nov 2026 02:02:42 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "c267eeb30b9d",
       "title": "Digital Production Designer Freelance at Column Five",
