@@ -1,7 +1,35 @@
 {
-  "last_scraped": "2026-11-19 10:13 UTC",
-  "total_jobs": 68,
+  "last_scraped": "2026-11-19 18:58 UTC",
+  "total_jobs": 70,
   "jobs": [
+    {
+      "id": "2b7f92dfe9bd",
+      "title": "Lifecycle QA Specialist at Winona",
+      "company": "Winona",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/winona/jobs/lifecycle-qa-specialist-884879",
+      "date_updated": "2026-11-19 18:58 UTC",
+      "raw_date": "Thu, 19 Nov 2026 10:28:14 +0000",
+      "source": "RemoteFirst QA"
+    },
+    {
+      "id": "c2c4ac330092",
+      "title": "Systems Designer (Live Ops & Economy) - 6 Month FTC/Freelance, Electric Square at Keywords Studios - Montr\u00e9al",
+      "company": "Keywords Studios - Montr\u00e9al",
+      "location": "Remote / Check Listing",
+      "category": "Tech & Systems Design",
+      "experience_level": "Mid / Standard",
+      "job_type": "Contract",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/keywords-studios/jobs/systems-designer-live-ops-economy-6-month-ftcfreelance-electric-square-884844",
+      "date_updated": "2026-11-19 18:58 UTC",
+      "raw_date": "Thu, 19 Nov 2026 09:55:18 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "33c783b2492d",
       "title": "Junior Software Quality Assurance Engineer (f/m/div.) at Bosch",
