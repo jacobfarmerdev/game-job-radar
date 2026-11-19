@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-18 17:12 UTC",
-  "total_jobs": 67,
+  "last_scraped": "2026-11-19 00:17 UTC",
+  "total_jobs": 68,
   "jobs": [
+    {
+      "id": "33c783b2492d",
+      "title": "Junior Software Quality Assurance Engineer (f/m/div.) at Bosch",
+      "company": "Bosch",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Entry / Associate",
+      "job_type": "Full-Time",
+      "engine": "Proprietary / Any",
+      "url": "https://remotefirstjobs.com/companies/bosch/jobs/junior-software-quality-assurance-engineer-fmdiv-884015",
+      "date_updated": "2026-11-19 00:17 UTC",
+      "raw_date": "Wed, 18 Nov 2026 15:27:29 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "ec6226c79cff",
       "title": "Veelpoot is hiring a Quest Designer to work from Anywhere",
