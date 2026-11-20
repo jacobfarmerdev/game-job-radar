@@ -1,7 +1,35 @@
 {
-  "last_scraped": "2026-11-20 01:45 UTC",
-  "total_jobs": 71,
+  "last_scraped": "2026-11-20 09:57 UTC",
+  "total_jobs": 73,
   "jobs": [
+    {
+      "id": "f8be9782e73e",
+      "title": "AI-Augmented QA Engineer at Pavago",
+      "company": "Pavago",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Proprietary / Any",
+      "url": "https://remotefirstjobs.com/companies/pavago/jobs/aiaugmented-qa-engineer-885452",
+      "date_updated": "2026-11-20 09:57 UTC",
+      "raw_date": "Thu, 19 Nov 2026 22:49:42 +0000",
+      "source": "RemoteFirst QA"
+    },
+    {
+      "id": "4f9cd24dd607",
+      "title": "QA Automation Engineer at Pavago",
+      "company": "Pavago",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/pavago/jobs/qa-automation-engineer-885443",
+      "date_updated": "2026-11-20 09:57 UTC",
+      "raw_date": "Thu, 19 Nov 2026 22:46:59 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "3894d438c5bd",
       "title": "QA Engineer - Python, Automation  (we have office locations in Cambridge, Leeds and London) at Genomics England",
