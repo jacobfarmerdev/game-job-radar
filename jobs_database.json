@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-19 18:58 UTC",
-  "total_jobs": 70,
+  "last_scraped": "2026-11-20 01:45 UTC",
+  "total_jobs": 71,
   "jobs": [
+    {
+      "id": "3894d438c5bd",
+      "title": "QA Engineer - Python, Automation  (we have office locations in Cambridge, Leeds and London) at Genomics England",
+      "company": "Genomics England",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/genomics-england/jobs/qa-engineer-python-automation-we-have-office-locations-in-cambridge-leeds-and-london-885164",
+      "date_updated": "2026-11-20 01:45 UTC",
+      "raw_date": "Thu, 19 Nov 2026 15:41:37 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "2b7f92dfe9bd",
       "title": "Lifecycle QA Specialist at Winona",
