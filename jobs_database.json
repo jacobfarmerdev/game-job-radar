@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-21 17:25 UTC",
-  "total_jobs": 74,
+  "last_scraped": "2026-11-21 23:08 UTC",
+  "total_jobs": 75,
   "jobs": [
+    {
+      "id": "d7cc4527ca01",
+      "title": "QA Analyst (WFH, Full-Time) at Kwanii",
+      "company": "Kwanii",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Internship",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/kwanii/jobs/qa-analyst-wfh-fulltime-887047",
+      "date_updated": "2026-11-21 23:08 UTC",
+      "raw_date": "Sat, 21 Nov 2026 15:56:42 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "c4bbefa08310",
       "title": "QA Performance Engineer at itecor",
