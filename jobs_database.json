@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-22 06:37 UTC",
-  "total_jobs": 75,
+  "last_scraped": "2026-11-22 16:13 UTC",
+  "total_jobs": 76,
   "jobs": [
+    {
+      "id": "161d313acdf6",
+      "title": "Email Designer at Winona",
+      "company": "Winona",
+      "location": "Remote / Check Listing",
+      "category": "Level & Game Design",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/winona/jobs/email-designer-887312",
+      "date_updated": "2026-11-22 16:13 UTC",
+      "raw_date": "Sun, 22 Nov 2026 05:29:07 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "d7cc4527ca01",
       "title": "QA Analyst (WFH, Full-Time) at Kwanii",
