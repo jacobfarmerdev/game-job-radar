@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-24 02:53 UTC",
-  "total_jobs": 81,
+  "last_scraped": "2026-11-24 14:47 UTC",
+  "total_jobs": 82,
   "jobs": [
+    {
+      "id": "ef85fe97847b",
+      "title": "QA Engineer, MarTech at CourtAvenue",
+      "company": "CourtAvenue",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/courtavenue/jobs/qa-engineer-martech-887781",
+      "date_updated": "2026-11-24 14:47 UTC",
+      "raw_date": "Tue, 24 Nov 2026 04:30:39 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "79b9ddd70427",
       "title": "QA Manual Tester -  Philippines, Remote at Bluelight Consulting",
