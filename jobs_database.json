@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-24 14:47 UTC",
-  "total_jobs": 82,
+  "last_scraped": "2026-11-25 00:36 UTC",
+  "total_jobs": 83,
   "jobs": [
+    {
+      "id": "a3e28beebe0f",
+      "title": "Product Designer at Borrowell",
+      "company": "Borrowell",
+      "location": "Remote / Check Listing",
+      "category": "Level & Game Design",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/borrowell/jobs/product-designer-888068",
+      "date_updated": "2026-11-25 00:36 UTC",
+      "raw_date": "Tue, 24 Nov 2026 15:41:47 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "ef85fe97847b",
       "title": "QA Engineer, MarTech at CourtAvenue",
