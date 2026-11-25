@@ -1,7 +1,35 @@
 {
-  "last_scraped": "2026-11-25 00:36 UTC",
-  "total_jobs": 83,
+  "last_scraped": "2026-11-25 11:11 UTC",
+  "total_jobs": 85,
   "jobs": [
+    {
+      "id": "ec4633ae80c7",
+      "title": "QA Analyst (Supply Chain) at Tecsys Inc.",
+      "company": "Tecsys Inc.",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/tecsys-inc/jobs/qa-analyst-supply-chain-888415",
+      "date_updated": "2026-11-25 11:11 UTC",
+      "raw_date": "Wed, 25 Nov 2026 03:05:20 +0000",
+      "source": "RemoteFirst QA"
+    },
+    {
+      "id": "cc2a347c2bc8",
+      "title": "1207 - QA Automation at GoFasti",
+      "company": "GoFasti",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/gofasti/jobs/1207-qa-automation-888393",
+      "date_updated": "2026-11-25 11:11 UTC",
+      "raw_date": "Wed, 25 Nov 2026 02:23:15 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "a3e28beebe0f",
       "title": "Product Designer at Borrowell",
