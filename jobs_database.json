@@ -1,7 +1,49 @@
 {
-  "last_scraped": "2026-11-25 21:36 UTC",
-  "total_jobs": 89,
+  "last_scraped": "2026-11-26 04:07 UTC",
+  "total_jobs": 92,
   "jobs": [
+    {
+      "id": "2d0c72ee0a99",
+      "title": "QA/Test Engineer at Oddball",
+      "company": "Oddball",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/oddball/jobs/qatest-engineer-889001",
+      "date_updated": "2026-11-26 04:07 UTC",
+      "raw_date": "Wed, 25 Nov 2026 17:15:46 +0000",
+      "source": "RemoteFirst QA"
+    },
+    {
+      "id": "6d1300cd7605",
+      "title": "Studio Production Designer at Avalere",
+      "company": "Avalere",
+      "location": "Remote / Check Listing",
+      "category": "Level & Game Design",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/avalere/jobs/studio-production-designer-888989",
+      "date_updated": "2026-11-26 04:07 UTC",
+      "raw_date": "Wed, 25 Nov 2026 17:09:17 +0000",
+      "source": "RemoteFirst Entry-Level"
+    },
+    {
+      "id": "d340f3aae5da",
+      "title": "Associate UI/UX Designer at Konrad",
+      "company": "Konrad",
+      "location": "Remote / Check Listing",
+      "category": "Level & Game Design",
+      "experience_level": "Entry / Associate",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/konrad-group/jobs/associate-uiux-designer-888932",
+      "date_updated": "2026-11-26 04:07 UTC",
+      "raw_date": "Wed, 25 Nov 2026 15:44:58 +0000",
+      "source": "RemoteFirst Entry-Level"
+    },
     {
       "id": "dbf3fa1a9518",
       "title": "Product Designer, Scheduling at TeamSnap",
