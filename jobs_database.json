@@ -1,7 +1,49 @@
 {
-  "last_scraped": "2026-11-26 04:07 UTC",
-  "total_jobs": 92,
+  "last_scraped": "2026-11-26 22:56 UTC",
+  "total_jobs": 95,
   "jobs": [
+    {
+      "id": "49255412748b",
+      "title": "QA Testers wanted in Croatia! at Tester Work",
+      "company": "Tester Work",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Contract",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/tester-work/jobs/qa-testers-wanted-in-croatia-889647",
+      "date_updated": "2026-11-26 22:56 UTC",
+      "raw_date": "Thu, 26 Nov 2026 14:02:36 +0000",
+      "source": "RemoteFirst QA"
+    },
+    {
+      "id": "e50d04fee296",
+      "title": "Quality Assurance Engineer at Pavago",
+      "company": "Pavago",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Proprietary / Any",
+      "url": "https://remotefirstjobs.com/companies/pavago/jobs/quality-assurance-engineer-889493",
+      "date_updated": "2026-11-26 22:56 UTC",
+      "raw_date": "Thu, 26 Nov 2026 10:49:38 +0000",
+      "source": "RemoteFirst QA"
+    },
+    {
+      "id": "ccfb1e65019f",
+      "title": "Implementation QA Specialist at Clariti",
+      "company": "Clariti",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/clariti/jobs/implementation-qa-specialist-889447",
+      "date_updated": "2026-11-26 22:56 UTC",
+      "raw_date": "Thu, 26 Nov 2026 09:44:38 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "2d0c72ee0a99",
       "title": "QA/Test Engineer at Oddball",
