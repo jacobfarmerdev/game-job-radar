@@ -1,7 +1,21 @@
 {
-  "last_scraped": "2026-11-26 22:56 UTC",
-  "total_jobs": 95,
+  "last_scraped": "2026-11-27 08:16 UTC",
+  "total_jobs": 96,
   "jobs": [
+    {
+      "id": "6f08bb972e74",
+      "title": "8th Flame Studios is hiring a Combat Designer to work from Toronto, ON",
+      "company": "Work With Indies",
+      "location": "Remote / Check Listing",
+      "category": "Tech & Systems Design",
+      "experience_level": "Mid / Standard",
+      "job_type": "Contract",
+      "engine": "Proprietary / Any",
+      "url": "https://www.workwithindies.com/careers/8th-flame-studios-combat-designer",
+      "date_updated": "2026-11-27 08:16 UTC",
+      "raw_date": "Thu, 26 Nov 2026 00:00:00 GMT",
+      "source": "Work With Indies"
+    },
     {
       "id": "49255412748b",
       "title": "QA Testers wanted in Croatia! at Tester Work",
