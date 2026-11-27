@@ -1,7 +1,35 @@
 {
-  "last_scraped": "2026-11-27 08:16 UTC",
-  "total_jobs": 96,
+  "last_scraped": "2026-11-27 19:26 UTC",
+  "total_jobs": 98,
   "jobs": [
+    {
+      "id": "37878b93b89f",
+      "title": "AI-Augmented QA Engineer at Pavago",
+      "company": "Pavago",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Proprietary / Any",
+      "url": "https://remotefirstjobs.com/companies/pavago/jobs/aiaugmented-qa-engineer-890075",
+      "date_updated": "2026-11-27 19:26 UTC",
+      "raw_date": "Fri, 27 Nov 2026 11:07:43 +0000",
+      "source": "RemoteFirst QA"
+    },
+    {
+      "id": "640c86aa8167",
+      "title": "QA Analyst at Primacy",
+      "company": "Primacy",
+      "location": "Remote / Check Listing",
+      "category": "QA & Playtesting",
+      "experience_level": "Mid / Standard",
+      "job_type": "Full-Time",
+      "engine": "Unity",
+      "url": "https://remotefirstjobs.com/companies/primacy/jobs/qa-analyst-890034",
+      "date_updated": "2026-11-27 19:26 UTC",
+      "raw_date": "Fri, 27 Nov 2026 10:45:18 +0000",
+      "source": "RemoteFirst QA"
+    },
     {
       "id": "6f08bb972e74",
       "title": "8th Flame Studios is hiring a Combat Designer to work from Toronto, ON",
